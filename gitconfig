@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = markus_kaller@gmx.de
+	name = Markus Kaller
